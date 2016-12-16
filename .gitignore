@@ -1,5 +1,6 @@
 tempfile1.txt
 tempfile2.txt
+tempfilex.txt
 .DS_Store
 *.zip
 *.gz
